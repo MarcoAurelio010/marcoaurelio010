@@ -4,7 +4,7 @@
 - 🏢 Hoje trabalho com Logística na Santher
 - 🎓 Estudando ADS em IF-SP
 - 📩 contato Email: marcoaurelionichi@gmail.com
-- 💻 Meu Site:  <a href="marcoaurelio010.github.io/Meu-Site/" target="_blank" rel="noopenernoreferrer">marcoaurelio010.github.io/Meu-Site/</a>
+- 💻 Meu Site:  <a href="https://marcoaurelio010.github.io/Meu-Site/" target="_blank" rel="noopenernoreferrer">https://marcoaurelio010.github.io/Meu-Site/</a>
 <div>
 <a href="https://github.com/marcoaurelio010">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcoaurelio010&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
