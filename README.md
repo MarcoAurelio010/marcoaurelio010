@@ -5,6 +5,8 @@
 - 🎓 Estudando ADS em IF-SP
 - 📩 contato Email: marcoaurelionichi@gmail.com
 - 💻 Meu Site: https://marcoaurelio010.github.io/Meu-Site/
+
+  
 <div>
 <a href="https://github.com/marcoaurelio010">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcoaurelio010&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
