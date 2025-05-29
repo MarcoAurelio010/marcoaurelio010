@@ -1,8 +1,7 @@
 ### Olá! Eu sou o Marco Aurélio Nichi Rodermel
 
 
-- 🏢 Hoje trabalho com Logística na Santher
-- 🎓 Estudando ADS em IF-SP
+- 🎓 Estudando ADS em IF-SP 4º semestre
 - 📩 contato Email: marcoaurelionichi@gmail.com
 - 💻 Meu Site: https://marcoaurelio010.github.io/Meu-Site/
 
