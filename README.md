@@ -1,4 +1,4 @@
-### 👋 Olá! Eu sou o Marco Aurélio Nichi Rodermel
+### 👋 Olá! Eu sou o Marco Aurélio!
 
 🎓 Estudante de **Análise e Desenvolvimento de Sistemas** no **IF-SP (5º semestre)**  
 💻 Apaixonado por **tecnologia, programação web** e **aprendizado contínuo**  
