@@ -40,11 +40,4 @@
   </a>
 </div>
 
----
-
-<div align="center">
-  
-  ![visitors](https://visitor-badge.glitch.me/badge?page_id=marcoaurelio010&left_color=gray&right_color=blue)
-  
-</div>
 
