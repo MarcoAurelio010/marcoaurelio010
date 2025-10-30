@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Marco Aurélio Nichi Rodermel
 
 
-- 🎓 Estudando ADS em IF-SP 4º semestre
+- 🎓 Estudando ADS em IF-SP 5º semestre
 - 📩 contato Email: marcoaurelionichi@gmail.com
 - 💻 Meu Site: https://marcoaurelio010.github.io/Meu-Site/
 
